@@ -1,3 +1,3 @@
-name = "Himangshu"
+name = "GitHub"
 
 print("hello",name)
